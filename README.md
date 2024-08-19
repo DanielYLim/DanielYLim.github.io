@@ -1,4 +1,4 @@
-<em><a href=\"https://DanielYLim.github.io\">My Web Page</a></em>.
+<https://danielylim.github.io/>
 
 # About Me
 Accomplished, integrity-driven, bilingual Data Scientist with extensive experience in research, quantitative analysis, statistical modeling, and advanced analytics. Proven success in utilizing technology to support business and research objectives, with a strong focus on model fairness, transparency, and explainability. Hands-on experience in statistical programming, machine learning, and data visualization, complemented by excellent communication, leadership, and collaboration skills.
